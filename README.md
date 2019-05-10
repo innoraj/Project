@@ -8,7 +8,7 @@ Currently Working with Three dataset.
 Dataset1 70000 Kaggle Data Instances  
 Source : https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
-Dataset2 ~4000 Firmingham Data Instances  
+Dataset2 4240 Firmingham Data Instances  
 Source : https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 
 Dataset3 303 Data Instance from UCI Repository  
